@@ -10,6 +10,8 @@ Data sources were connected and transformed using custom scripts and tools:
 - 📈 **Investment data (XTB)**: Retrieved using a Python script interacting with the XTB trading platform via automated browser interaction.
 - 🛡️ **Insurance data (UNIQA)**: Collected via a custom Python script that logs in and downloads data from my UNIQA online account.
 
+> ⚠️ _All financial data presented in this dashboard is **fictitious and anonymized** to prevent misuse. The structure and logic are based on real data pipelines and tools._
+
 ### Key Features:
 - Overview of all income and expenses by category and time
 - Net worth trend and cash flow analysis
@@ -30,4 +32,4 @@ This dashboard serves the following purposes:
 
 ---
 
-💡 _All data is real and securely accessed through authenticated sources. Sensitive information has been removed for portfolio sharing._
+💡 _All data is real in terms of structure and sources used. However, the numbers and records are intentionally fictional to ensure privacy and data security._
